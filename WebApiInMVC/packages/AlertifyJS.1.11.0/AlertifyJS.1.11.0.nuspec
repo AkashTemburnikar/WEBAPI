@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AlertifyJS</id>
+    <version>1.11.0</version>
+    <title>AlertifyJS</title>
+    <authors>Mohammad Younes</authors>
+    <owners>Mohammad Younes</owners>
+    <licenseUrl>https://github.com/MohammadYounes/AlertifyJS/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://alertifyjs.com/</projectUrl>
+    <iconUrl>http://alertifyjs.com/apple-touch-icon-precomposed.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>AlertifyJS is a javascript framework for developing pretty browser dialogs and notifications.</description>
+    <summary />
+    <copyright>Mohammad Younes</copyright>
+    <tags>alert notify alertify pretty browser dialog notification js javascript css</tags>
+  </metadata>
+</package>
