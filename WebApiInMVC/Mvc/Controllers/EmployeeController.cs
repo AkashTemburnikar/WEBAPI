@@ -29,7 +29,7 @@ namespace Mvc.Controllers
 				else
 				{
 					empList = Enumerable.Empty<mvcEmployeeModel>();
-					ModelState.AddModelError(string.Empty, "Server error try after some time please.");
+					ModelState.AddModelError(string.Empty, "Server error.");
 				}
 			}
 			return View(empList);
